@@ -85,5 +85,3 @@
 //    i++;
 // }
 // console.log("Numbers of digits in given number is:" + i);
-
-
