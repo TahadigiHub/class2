@@ -78,11 +78,10 @@
 // }
 // console.log("sum of all even numbers from 1 to 100 is:" + sum);
 // progarm 10
-// var userInput = prompt("Enter numbers to count digts of number");
-// var i = 0;
-// while (userInput > 0) {
-//     userInput  = parseInt(userInput / 10);
-//    i++;
-// }
-// console.log("Numbers of digits in given number is:" + i);
-//
+var userInput = prompt("Enter numbers to count digts of number");
+var i = 0;
+while (userInput > 0) {
+    userInput  = parseInt(userInput / 10);
+   i++;
+}
+console.log("Numbers of digits in given number is:" + i);
